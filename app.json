@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "firebaseAuthFlow",
+    "slug": "canine-companion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.joshua.canine-companion"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5d2a7eac-4749-46fa-a877-c05d62116865"
+      }
+    },
+    "owner": "joshuaexpo1",
+    "android": {
+      "package": "com.joshuaexpo1.caninecompanion"
+    }
+  }
+}

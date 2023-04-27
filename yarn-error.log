@@ -2,7 +2,7 @@ Arguments:
   /home/joshua/.nvm/versions/node/v18.15.0/bin/node /snap/node/7392/bin/yarn.js install
 
 PATH: 
-  /home/joshua/canine-companion/node_modules/.bin:/home/joshua/canine-companion/node_modules/.bin:/home/joshua/node_modules/.bin:/home/node_modules/.bin:/node_modules/.bin:/home/joshua/.nvm/versions/node/v18.15.0/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/node-gyp-bin:/home/joshua/.nvm/versions/node/v18.15.0/bin:/home/joshua/.local/share/pnpm:/run/user/1000/fnm_multishells/73158_1682438337423/bin:/home/joshua/.local/share/fnm:/run/user/1000/fnm_multishells/73155_1682438337392/bin:/home/joshua/.local/share/fnm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+  /home/joshua/canine-companion/node_modules/.bin:/home/joshua/canine-companion/node_modules/.bin:/home/joshua/node_modules/.bin:/home/node_modules/.bin:/node_modules/.bin:/home/joshua/.nvm/versions/node/v18.15.0/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/node-gyp-bin:/home/joshua/.nvm/versions/node/v18.15.0/bin:/home/joshua/.local/share/pnpm:/run/user/1000/fnm_multishells/27531_1682609045189/bin:/home/joshua/.local/share/fnm:/run/user/1000/fnm_multishells/27527_1682609045166/bin:/home/joshua/.local/share/fnm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
 
 Yarn version: 
   1.22.19
@@ -36,14 +36,14 @@ npm manifest:
       "appcenter": "^4.4.5",
       "appcenter-analytics": "^4.4.5",
       "appcenter-crashes": "^4.4.5",
-      "expo": "~48.0.11",
+      "expo": "~48.0.15",
       "expo-asset": "~8.9.1",
       "expo-font": "~11.1.1",
       "expo-status-bar": "~1.4.4",
       "firebase": "^9.6.1",
       "react": "18.2.0",
       "react-dom": "18.2.0",
-      "react-native": "0.71.6",
+      "react-native": "0.71.7",
       "react-native-gesture-handler": "^2.9.0",
       "react-native-paper": "^5.6.0",
       "react-native-rapi-ui": "^0.2.1",
@@ -52,7 +52,7 @@ npm manifest:
       "react-native-screens": "^3.20.0",
       "react-native-web": "~0.18.11",
       "react-navigation": "^4.4.4",
-      "expo-splash-screen": "~0.18.1"
+      "expo-splash-screen": "~0.18.2"
     },
     "devDependencies": {
       "@babel/core": "^7.20.0"

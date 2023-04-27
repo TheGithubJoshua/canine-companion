@@ -1,0 +1,3 @@
+[submodule "android/app/src/main/assets"]
+  path = android/app/src/main/assets
+  url = https://github.com/TheGithubJoshua/canine-comapnion.git
